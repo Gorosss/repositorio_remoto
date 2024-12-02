@@ -1,1 +1,4 @@
-Menu de recetas
+Menu de recetas:
+    - Torti
+    - Canelones
+    - Arroz con pollo
